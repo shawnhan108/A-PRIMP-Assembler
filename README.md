@@ -1,4 +1,4 @@
-# A-PRIMP-Assembler
+# SIMP-A-PRIMP-Assembler-Compiler
 
 SIMP is a self-defined high-level imperative language written in Racket (Scheme)
 A-PRIMP is a self-defined high-level pseudo-instructions written in Racket (Scheme).
